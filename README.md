@@ -1,2 +1,2 @@
-# Shopping Cart in React JS
+# Ecommerce Cart in React JS
 
